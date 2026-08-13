@@ -1,6 +1,6 @@
 const projects=[
 {title:"George — Marketing Campaign",cat:"FREELANCE • MARKETING VIDEO",desc:"A short-form marketing edit built to communicate a message quickly, with social-first pacing and clear visual storytelling.",file:"assets/videos-web/george-marketing.mp4"},
-{title:"Marketing SinoGNSS T20",cat:"PRODUCT MARKETING • VIDEO EDITING",desc:"A product marketing video showcasing the SinoGNSS T20 GNSS Rover, designed to communicate its value and capabilities clearly to surveying professionals.",file:"assets/videos-web/george-extended-edit.mp4"},
+{title:"Marketing SinoGNSS T20",cat:"PRODUCT MARKETING • VIDEO EDITING",desc:"A product marketing video showcasing the SinoGNSS T20 GNSS Rover, designed to communicate its value and capabilities clearly to surveying professionals.",file:"assets/videos-web/george-extended-edit.mp4"}
 {title:"OTIC Geosystems — One Stop Store",cat:"PRODUCT MARKETING • SOCIAL MEDIA",desc:"A promotional social video communicating the convenience of getting surveying equipment and solutions from one place.",file:"assets/videos-web/otic-one-stop-store.mp4"},
 {title:"OTIC Geosystems — Website Ordering",cat:"COMMERCIAL • SOCIAL MEDIA",desc:"A concise promotional edit showing customers how to order surveying equipment online.",file:"assets/videos-web/otic-website-promo.mp4"},
 {title:"Refyul — Flow State",cat:"PRODUCT • SOCIAL MEDIA",desc:"A social-first product edit built around the frustration of running out of fuel and the convenience of Refyul.",file:"assets/videos-web/refyul-flow-state.mp4"},
